@@ -1,3 +1,3 @@
 # Sample
 Sample Repository
-Author : SHravani
+Author : Shravani
